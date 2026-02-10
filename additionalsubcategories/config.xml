@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
     <name>additionalsubcategories</name>
-    <displayName><![CDATA[Additional Subcategories]]></displayName>
-    <version><![CDATA[1.0.0]]></version>
-    <description><![CDATA[Add additional subcategories to parent categories beyond their natural children]]></description>
+    <displayName><![CDATA[Subcategorías Adicionales]]></displayName>
+    <version><![CDATA[1.1.0]]></version>
+    <description><![CDATA[Añade subcategorías adicionales a categorías padre más allá de sus hijos naturales]]></description>
     <author><![CDATA[Quexulo]]></author>
     <tab><![CDATA[front_office_features]]></tab>
     <is_configurable>0</is_configurable>
