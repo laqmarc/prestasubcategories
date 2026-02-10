@@ -40,9 +40,9 @@ document.addEventListener("DOMContentLoaded", function() {
                         "<img class=\"img-fluid\" src=\"" + imageUrl + "\" alt=\"" + cat.name + "\" loading=\"lazy\">" +
                     "</a>" +
                 "</div>" +
-                "<h5>" +
+                "<h3>" +
                     "<a class=\"subcategory-name\" href=\"" + categoryLink + "\">" + cat.name + "</a>" +
-                "</h5>" +
+                "</h3>" +
             "</li>";
             
             $list.insertAdjacentHTML("beforeend", html);
